@@ -16,6 +16,7 @@
         "AllowConcurrentLogon": false,
         "SocketMode": 1,
         "UserImageMode": 0,
+        "UserImageContentMode": 2,
         "UserIdEncMode": 6,
         "PasswordEncMode": 3,
         "PasswordCheckEncMode": 3,
