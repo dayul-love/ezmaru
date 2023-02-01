@@ -1,0 +1,158 @@
+{
+    "Service": {
+        "Use": true,
+        "NotUseText": "서비스 중지"
+    },
+    "AppInfo": {
+        "AppID": "ZEOSPACE",
+        "UniqueName": "Zeospace Messenger",
+        "AppGroup": "ZEO",
+        "GCode": "60384df369f2495a4b30a73b",
+        "UseTimeUTC": false,
+        "UseSSL": false,
+        "Address": "180.150.228.252:7880",
+        "CompanyCode": "A1,A2,A10,B1",
+        "CompanyName": "제오스페이스,펄슨텔,티앤지,제오스페이스㈜",
+        "AllowConcurrentLogon": false,
+        "SocketMode": 1,
+        "UserImageMode": 0,
+        "UserIdEncMode": 6,
+        "PasswordEncMode": 6,
+        "PasswordCheckEncMode": 5,
+        "NoteMode": 1,
+        "BadgeCountMode": 1,
+        "ViewerMode": 0,
+        "CanSelectViewerMode": false
+    },
+    "Setting": {
+        "Common": {
+            "AppIconNameForVersion": "ezmaru_appicon.png",
+            "UserDefaultImageName": "UserDefault_2",
+            "MainTabIconForNote": "dmail-25x25",
+            "HtmlNameForWwwRoot": "default",
+            "HideTableListSeparator": false,
+            "UseAttachCamera": true,
+            "UseAttachAlbum": true,
+            "UseCompressImage": false,
+            "UseAttachFile": true,
+            "UseAttachVideo": false,
+            "UseCompressVideo": false,
+            "CheckSendChatAndNote": true,
+            "UseSearchTypeChatNoteList": true,
+            "UseNotifyInAppRun": true,
+            "UseAutoLoginWhenSessionOut": false,
+            "UseEmoticon": true,
+            "UseEmoticonOld": true,
+            "UseOfflineLogin": false,
+            "Appearance": {
+                "NavigationStatusBarStyle": 1,
+                "NavigationBarColor": "#3298DA",
+                "NavigationColor": "#FFFFFF",
+                "TabbarBarColor": "#F5F5F5",
+                "TabbarShadowColor": "#EDEDED",
+                "TabbarSelectedButtonColor": "",
+                "TabbarUnselectedButtonColor": "",
+                "LogoutButtonBgColor": "#3298DA",
+                "LogoutButtonTextColor": "#FFFFFF",
+                "CommonButtonBgColor": "#3388DA",
+                "CommonButtonTextColor": "#FFFFFF"
+            }
+        },
+        "Login": {
+            "ClearPwdAtSessionOut": true,
+            "LoginOnlyPortrait": true,
+            "LoginUseFlat": true,
+            "LoginStatusBarStyle": 0,
+            "Appearance": {
+                "LoginViewBgColor": "#FFFFFF",
+                "LoginTitleTextColor": "#000000",
+                "LoginEditBorderColor": "#BBBBBB",
+                "LoginEditTextColor": "#000000",
+                "LoginEditPlaceholderColor": "#999999",
+                "LoginButtonBgColor": "#3298DA",
+                "LoginButtonTextColor": "#FFFFFF",
+                "LoginSaveOnBgColor": "#3298DA",
+                "LoginSaveTextColor": "#555555",
+                "LoginRegistTextColor": "#777777",
+                "LoginFindAccountTextColor": "#777777"
+            }
+        },
+        "Profile": {
+            "UseProfileSMS": false,
+            "UseProfileOfficephone": true,
+            "UseProfileEmail": true,
+            "UseProfileAddress": true,
+            "UseProfileBirthday": true,
+            "UseProfileIntro": true,
+            "UseProfileInfoOpenYN": true,
+            "ProfileImageVersion": 0,
+            "MiniProfileViewType": 0,
+            "Appearance": {
+                "MiniProfileBgColor": "#37474F",
+                "MiniProfileTextColor": "#FFFFFF"
+            }
+        },
+        "User": {
+            "UserSearchScopeType": "1"
+        },        
+        "Org": {
+            "UseTabbarOrg": true,
+            "UseDeptFullName": true,
+            "ViewAtZeroUserInOrg": false,
+            "ViewStringUserInOrg": false,
+            "AllUserInSubDept": false,
+            "UseOrgInSelecteUser": true,
+            "ViewDeptInfoInSubDeptSelectUser": true
+        },
+        "Chat": {   
+            "UseAlarmYnInChat": true,
+            "CheckChatPermission": false,
+            "UseChatReadCountBrackets": false,
+            "DefaultSearchTypeInChat": "nic",            
+            "UseInnerSearchInChat": true,
+            "PathInnerSearchInChat": "/mobile/message/chatSearch",
+            "UseChangeChatBgAlbum": true,
+            "ChatListContentsLength": 500,
+            "PathChatContent": "/mobile/message/chatmessageinfo",
+            "Appearance": {         
+                "ChatBubbleMeBgColor": "#97DF55",
+                "ChatBubbleMeBorderColor": "#92D666",
+                "ChatBubbleMeTextColor": "#000000",
+                "ChatBubbleYouBgColor": "#E5F9FD",
+                "ChatBubbleYouBorderColor": "#DAEAF1",
+                "ChatBubbleYouTextColor": "#000000",
+                "ChatBubbleWithdrawBgColor": "#EFEFEF",
+                "ChatBubbleWithdrawBorderColor": "#DDDDDD",
+                "ChatBubbleWithdrawTextColor": "#FF0000"
+            }
+        },
+        "Note": {            
+            "UseTabbarNote": true,
+            "UseSendNote": false,
+            "DefaultSearchTypeInNote": "ALL",
+            "UseUserImageInNote": true,
+            "UseCheckReadInNote": true
+        },
+        "More": {
+            "UseTabbarMore": true,
+            "UseMoreMenuProfile": true,
+            "UseMoreMenuFile": true,
+            "UseMoreMenuAlarm": false,
+            "UseMoreMenuSetting": true,
+            "UseMoreMenuFavorite": false,
+            "UseMoreMenuVersion": true
+        },
+        "Setting": {
+             "UsePushAlarmTime": true
+        },
+        "Extension": {
+            "UseTodo": false,
+            "UseSchedule": false,
+            "UseBbs": false
+        },
+        "Groupware": {
+            "UseGroupware": false,
+            "UseGroupwareFirstPop": false
+        }
+    }
+}
