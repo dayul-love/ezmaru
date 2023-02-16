@@ -45,6 +45,7 @@
             "UseEmoticon": true,
             "UseEmoticonOld": true,
             "UseOfflineLogin": false,
+            "UseRequestBuddyOnlineStatus": false,
             "Appearance": {
                 "NavigationStatusBarStyle": 1,
                 "NavigationBarColor": "#3298DA",
