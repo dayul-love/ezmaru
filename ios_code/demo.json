@@ -46,6 +46,7 @@
             "UseEmoticonOld": true,
             "UseOfflineLogin": false,
             "UseRequestBuddyOnlineStatus": false,
+            "SelectGroupAllowTopLevel": 0,
             "Appearance": {
                 "NavigationStatusBarStyle": 1,
                 "NavigationBarColor": "#3298DA",
@@ -153,7 +154,7 @@
             "UseBbs": false
         },
         "Groupware": {
-            "UseGroupware": false,
+            "UseGroupware": true,
             "UseGroupwareFirstPop": false
         }
     }
