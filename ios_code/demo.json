@@ -23,6 +23,7 @@
         "NoteMode": 1,
         "BadgeCountMode": 1,
         "ViewerMode": 0,
+        "ViewerModeSynapDocView1Url" : "",
         "CanSelectViewerMode": false
     },
     "Setting": {
