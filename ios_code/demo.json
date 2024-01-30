@@ -155,7 +155,7 @@
             "UseBbs": false
         },
         "Groupware": {
-            "UseGroupware": true,
+            "UseGroupware": false,
             "UseGroupwareFirstPop": false
         }
     }
