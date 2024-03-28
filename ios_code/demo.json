@@ -46,7 +46,7 @@
             "UseEmoticon": true,
             "UseEmoticonOld": true,
             "UseOfflineLogin": false,
-            "UseRequestBuddyOnlineStatus": false,
+            "UseRequestBuddyOnlineStatus": true,
             "SelectGroupAllowTopLevel": 0,
             "Appearance": {
                 "NavigationStatusBarStyle": 1,
