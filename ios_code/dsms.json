@@ -4,13 +4,13 @@
         "NotUseText": "서비스 중지"
     },
     "AppInfo": {
-        "AppID": "ENMAD",
-        "UniqueName": "ENMAD Messenger",
+        "AppID": "DSMS",
+        "UniqueName": "DSMS Talk",
         "AppGroup": "",
-        "GCode": "658006ab9ef2e0805c5c2a0b",
+        "GCode": "6673cb9e9ef2546b1aaa3329",
         "UseTimeUTC": false,
         "UseSSL": false,
-        "Address": "219.240.45.132:7880",
+        "Address": "192.168.0.199:7880",
         "CompanyCode": "",
         "CompanyName": "",
         "AllowConcurrentLogon": false,
