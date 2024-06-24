@@ -10,7 +10,7 @@
         "GCode": "6673cb9e9ef2546b1aaa3329",
         "UseTimeUTC": false,
         "UseSSL": false,
-        "Address": "192.168.0.199:7880",
+        "Address": "211.219.255.40:7880",
         "CompanyCode": "",
         "CompanyName": "",
         "AllowConcurrentLogon": false,
