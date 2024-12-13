@@ -46,8 +46,9 @@
             "UseEmoticon": true,
             "UseEmoticonOld": true,
             "UseOfflineLogin": false,
-            "UseRequestBuddyOnlineStatus": false,
+            "UseRequestBuddyOnlineStatus": true,
             "SelectGroupAllowTopLevel": 0,
+            "UsePreventScreenCapture": false,
             "Appearance": {
                 "NavigationStatusBarStyle": 1,
                 "NavigationBarColor": "#3298DA",
@@ -151,7 +152,7 @@
         },
         "Extension": {
             "UseTodo": false,
-            "UseSchedule": false,
+            "UseSchedule": true,
             "UseBbs": false
         },
         "Groupware": {
