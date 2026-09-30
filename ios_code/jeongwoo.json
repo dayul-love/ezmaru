@@ -4,13 +4,13 @@
         "NotUseText": "서비스 중지"
     },
     "AppInfo": {
-        "AppID": "EZMARU",
-        "UniqueName": "EZMARU",
+        "AppID": "JEONGWOO",
+        "UniqueName": "JEONG Talk",
         "AppGroup": "",
-        "GCode": "EZ0038",
-        "UseTimeUTC": true,
+        "GCode": "67f61e699ef26142e723f6f2",
+        "UseTimeUTC": false,
         "UseSSL": false,
-        "Address": "www.ezmaru.com",
+        "Address": "106.255.245.198:7880",
         "CompanyCode": "",
         "CompanyName": "",
         "AllowConcurrentLogon": false,
@@ -18,8 +18,8 @@
         "UserImageMode": 0,
         "UserImageContentMode": 2,
         "UserIdEncMode": 6,
-        "PasswordEncMode": 3,
-        "PasswordCheckEncMode": 3,
+        "PasswordEncMode": 6,
+        "PasswordCheckEncMode": 6,
         "NoteMode": 1,
         "BadgeCountMode": 1,
         "ViewerMode": 0,
@@ -50,11 +50,11 @@
             "SelectGroupAllowTopLevel": 0,
             "Appearance": {
                 "NavigationStatusBarStyle": 1,
-                "NavigationBarColor": "#2A3137",
+                "NavigationBarColor": "#3298DA",
                 "NavigationColor": "#FFFFFF",
                 "TabbarBarColor": "#F5F5F5",
                 "TabbarShadowColor": "#EDEDED",
-                "TabbarSelectedButtonColor": "#2A3137",
+                "TabbarSelectedButtonColor": "",
                 "TabbarUnselectedButtonColor": "",
                 "LogoutButtonBgColor": "#3298DA",
                 "LogoutButtonTextColor": "#FFFFFF",
@@ -92,7 +92,7 @@
             "ProfileImageVersion": 0,
             "MiniProfileViewType": 0,
             "Appearance": {
-                "MiniProfileBgColor": "#2A3137",
+                "MiniProfileBgColor": "#37474F",
                 "MiniProfileTextColor": "#FFFFFF"
             }
         },
@@ -150,9 +150,9 @@
              "UsePushAlarmTime": true
         },
         "Extension": {
-            "UseTodo": true,
-            "UseSchedule": true,
-            "UseBbs": true
+            "UseTodo": false,
+            "UseSchedule": false,
+            "UseBbs": false
         },
         "Groupware": {
             "UseGroupware": false,

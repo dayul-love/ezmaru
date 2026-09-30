@@ -4,13 +4,13 @@
         "NotUseText": "서비스 중지"
     },
     "AppInfo": {
-        "AppID": "EZMARU",
-        "UniqueName": "EZMARU",
+        "AppID": "ARARIO",
+        "UniqueName": "ARARIO SOTONG",
         "AppGroup": "",
-        "GCode": "EZ0038",
-        "UseTimeUTC": true,
+        "GCode": "69805ca39ef21431d1634a72",
+        "UseTimeUTC": false,
         "UseSSL": false,
-        "Address": "www.ezmaru.com",
+        "Address": "211.199.151.76:7880",
         "CompanyCode": "",
         "CompanyName": "",
         "AllowConcurrentLogon": false,
@@ -18,8 +18,8 @@
         "UserImageMode": 0,
         "UserImageContentMode": 2,
         "UserIdEncMode": 6,
-        "PasswordEncMode": 3,
-        "PasswordCheckEncMode": 3,
+        "PasswordEncMode": 6,
+        "PasswordCheckEncMode": 6,
         "NoteMode": 1,
         "BadgeCountMode": 1,
         "ViewerMode": 0,
@@ -150,9 +150,9 @@
              "UsePushAlarmTime": true
         },
         "Extension": {
-            "UseTodo": true,
-            "UseSchedule": true,
-            "UseBbs": true
+            "UseTodo": false,
+            "UseSchedule": false,
+            "UseBbs": false
         },
         "Groupware": {
             "UseGroupware": false,

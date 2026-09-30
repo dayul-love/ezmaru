@@ -48,7 +48,6 @@
             "UseOfflineLogin": false,
             "UseRequestBuddyOnlineStatus": true,
             "SelectGroupAllowTopLevel": 0,
-            "UsePreventScreenCapture": false,
             "Appearance": {
                 "NavigationStatusBarStyle": 1,
                 "NavigationBarColor": "#3298DA",

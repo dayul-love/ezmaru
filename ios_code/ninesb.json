@@ -28,6 +28,9 @@
     },
     "Setting": {
         "Common": {
+            "EzmaruMajorVersion": 8,
+            "EzmaruMajorType": 1,
+            "UseGroupedPhotos": true,
             "AppIconNameForVersion": "ezmaru_appicon.png",
             "UserDefaultImageName": "UserDefault_2",
             "MainTabIconForNote": "dmail-25x25",
@@ -50,13 +53,13 @@
             "SelectGroupAllowTopLevel": 0,
             "Appearance": {
                 "NavigationStatusBarStyle": 1,
-                "NavigationBarColor": "#3298DA",
+                "NavigationBarColor": "#2A3137",
                 "NavigationColor": "#FFFFFF",
                 "TabbarBarColor": "#F5F5F5",
                 "TabbarShadowColor": "#EDEDED",
-                "TabbarSelectedButtonColor": "",
+                "TabbarSelectedButtonColor": "#2A3137",
                 "TabbarUnselectedButtonColor": "",
-                "LogoutButtonBgColor": "#3298DA",
+                "LogoutButtonBgColor": "#3388DA",
                 "LogoutButtonTextColor": "#FFFFFF",
                 "CommonButtonBgColor": "#3388DA",
                 "CommonButtonTextColor": "#FFFFFF"
@@ -92,7 +95,7 @@
             "ProfileImageVersion": 0,
             "MiniProfileViewType": 0,
             "Appearance": {
-                "MiniProfileBgColor": "#37474F",
+                "MiniProfileBgColor": "#2A3137",
                 "MiniProfileTextColor": "#FFFFFF"
             }
         },
