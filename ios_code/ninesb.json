@@ -30,6 +30,7 @@
         "Common": {
             "EzmaruMajorVersion": 8,
             "EzmaruMajorType": 1,
+            "UnifyOrgTab": true,
             "UseGroupedPhotos": true,
             "AppIconNameForVersion": "ezmaru_appicon.png",
             "UserDefaultImageName": "UserDefault_2",
@@ -47,7 +48,7 @@
             "UseNotifyInAppRun": true,
             "UseAutoLoginWhenSessionOut": false,
             "UseEmoticon": true,
-            "UseEmoticonOld": true,
+            "UseEmoticonOld": false,
             "UseOfflineLogin": false,
             "UseRequestBuddyOnlineStatus": true,
             "SelectGroupAllowTopLevel": 0,
