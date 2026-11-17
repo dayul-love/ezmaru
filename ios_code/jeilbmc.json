@@ -9,7 +9,7 @@
         "AppGroup": "",
         "GCode": "6aeafd959ef2a8a2191ecc77",
         "UseTimeUTC": false,
-        "UseSSL": false,
+        "UseSSL": true,
         "Address": "58.227.195.179:7880",
         "CompanyCode": "",
         "CompanyName": "",
